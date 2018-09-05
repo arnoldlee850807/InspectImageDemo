@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  InspectImageDemo
 //
-//  Created by i_skyhung on 2018/9/5.
-//  Copyright © 2018年 Arnold Lee. All rights reserved.
+//  Created by Arnold Lee on 9/5/18.
+//  Copyright © 2018 Arnold Lee. All rights reserved.
 //
 
 import UIKit
